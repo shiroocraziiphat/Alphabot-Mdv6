@@ -19,13 +19,13 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "Shiro-Md"
-global.ownername= "shiro"
+global.ownername= "Shiro_Md"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://AdeurX.github.io/"
 global.ownernomer = "6282361160044"
 global.ownernomerr = "6282361160044"
-global.thumbnail = "./image/lol.jpg"
+global.thumbnail = "./image/yuuta.jpeg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/298462103666a1e7bc6cf.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6282361160044","62882361160044","6282361160044"] //ganti agar fitur owner bisa di gunakan
